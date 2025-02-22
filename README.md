@@ -1,3 +1,4 @@
+*Learn how to package PyQt project*
 # ATTENTION! THIS REPO HAS BEEN DEPRECATED!
 # PLEASE USE THE BRAND NEW [FluentUI-PySide6](https://github.com/zhuzichu520/FluentUI-PySide6) INSTEAD!
 # THIS REPO IS NO LONGER MAINTAINED.
